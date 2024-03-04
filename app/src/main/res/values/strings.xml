@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="group_number">GROUP 1</string>
+    <string name="group_leader">Group Leader - Pelonia, Ray Daniel</string>
+    <string name="group_members">Members</string>
+    <string name="gm_mabang_fahatmah">Mabang, Fahatmah</string>
+    <string name="gm_ombion_jaspher">Ombion, Jaspher</string>
+    <string name="gm_gregorio_edgar">Gregorio, Edgar</string>
+    <string name="gm_hingabay_roel">Hingabay, Roel</string>
+    <string name="gm_guevarra_walter">Guevarra, Walter</string>
+    <string name="button_name">Okay</string>
+    <string name="bg_desc">Background Image</string>
+    <string name="logo_img_desc">logo of group 1</string>
+    <string name="btnToToastActivity">Toast</string>
+    <string name="toast_header_text">Toast</string>
+    <string name="toast_number">0</string>
+    <string name="increment_button">INCREMENT</string>
+    <string name="trivia">AI, wielding abstruse mathematical algorithms, delves into intricate abstract realms, unraveling convoluted patterns with computational finesse, leaving us entranced by its mind-bending complexity.</string>
+</resources>

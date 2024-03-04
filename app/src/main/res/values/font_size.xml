@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading1">50sp</dimen>
+    <dimen name="heading2">26sp</dimen>
+    <dimen name="heading3">24sp</dimen>
+    <dimen name="text">18sp</dimen>
+    <dimen name="toast_header_text">50sp</dimen>
+    <dimen name="toast_number">250sp</dimen>
+    <dimen name="trivia">16dp</dimen>
+</resources>
